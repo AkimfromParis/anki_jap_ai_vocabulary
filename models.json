@@ -1,0 +1,94 @@
+{
+    "1677952217019": {
+        "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+        "did": null,
+        "flds": [
+            {
+                "collapsed": false,
+                "description": "",
+                "font": "Meiryo UI",
+                "name": "Front",
+                "ord": 0,
+                "plainText": false,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "collapsed": false,
+                "description": "",
+                "font": "Times New Roman",
+                "name": "Back-EN",
+                "ord": 1,
+                "plainText": false,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "collapsed": false,
+                "description": "",
+                "font": "Times New Roman",
+                "name": "Back-FR",
+                "ord": 2,
+                "plainText": false,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "collapsed": false,
+                "description": "",
+                "font": "Meiryo UI",
+                "name": "Reading",
+                "ord": 3,
+                "plainText": false,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            },
+            {
+                "collapsed": false,
+                "description": "",
+                "font": "Meiryo UI",
+                "name": "Sentence",
+                "ord": 4,
+                "plainText": false,
+                "rtl": false,
+                "size": 20,
+                "sticky": false
+            }
+        ],
+        "id": 1677952217019,
+        "latexPost": "\\end{document}",
+        "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+        "latexsvg": false,
+        "mod": 1678046120,
+        "name": "AI-Vocabulary-Style",
+        "req": [
+            [
+                0,
+                "any",
+                [
+                    0
+                ]
+            ]
+        ],
+        "sortf": 0,
+        "tmpls": [
+            {
+                "afmt": "<div style='font-family: BIZ UDGothic; font-size: 50px;'>{{edit:Front}}</div> <br> \n\n<hr id=answer>\n\n<div style='font-family: BIZ UDGothic; font-size: 30px;'>{{edit:Back-EN}}</div> \n\n<hr id=answer>\n\n<div style='font-family: BIZ UDGothic; font-size: 30px;'>{{edit:Back-FR}}</div> \n\n<hr id=answer>\n\n<div style='font-family: BIZ UDGothic; font-size: 35px;'>{{edit:Reading}}</div> <br> \n\n\n<div style='font-family: BIZ UDGothic; font-size: 30px;'>{{edit:Sentence}}</div> <br> \n\n\n<div style='font-family: BIZ UDGothic; font-size: 30px;'></div> <br> ",
+                "bafmt": "",
+                "bfont": "",
+                "bqfmt": "",
+                "bsize": 0,
+                "did": null,
+                "name": "Card 1",
+                "ord": 0,
+                "qfmt": "<div style='font-family: BIZ UDGothic; font-size: 55px;'>{{edit:Front}}</div> <br> "
+            }
+        ],
+        "type": 0,
+        "usn": 0
+    }
+}
